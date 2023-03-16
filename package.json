@@ -1,23 +1,24 @@
 {
-  "name": "dca20231",
+  "name": "asynchronism",
   "version": "1.0.0",
-  "description": "![Asynchronism](https://cdn.buttercms.com/hmirWTF7TBCsX6mncY0P)",
+  "description": "# Asynchronism 🧑‍💻",
   "main": "index.js",
   "scripts": {
-    "start": "serve"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeiderCalvo/DCA.git"
+    "url": "git+https://github.com/FOOSSIILL/Asynchronism.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LeiderCalvo/DCA/issues"
+    "url": "https://github.com/FOOSSIILL/Asynchronism/issues"
   },
-  "homepage": "https://github.com/LeiderCalvo/DCA#readme",
-  "devDependencies": {
-    "serve": "^14.2.0"
+  "homepage": "https://github.com/FOOSSIILL/Asynchronism#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
   }
 }
